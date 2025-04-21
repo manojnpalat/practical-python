@@ -13,4 +13,4 @@ while ((bill_thickness * num_bills) < sears_height) :
     num_bills *= 2
     day = day + 1
 
-print(day)
+print(f"days:{day}")
